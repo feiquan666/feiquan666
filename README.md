@@ -1,3 +1,1 @@
-<h3 align="center">
-飞拳666&nbsp;&nbsp;&nbsp;
-</h3>
+[Obsidian](https://github.com/feiquan666/Obsidian)
